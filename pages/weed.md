@@ -1,0 +1,3 @@
+- prev: [[seed]]
+-
+- next: [[learning in public]]
