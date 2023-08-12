@@ -1,3 +1,5 @@
+public:: true
+
 - prev: [[thoughts]]
--
-- next: [[zettlekasten]]
+- also known as [[learning in public]].
+- next: [[learning in public]]
