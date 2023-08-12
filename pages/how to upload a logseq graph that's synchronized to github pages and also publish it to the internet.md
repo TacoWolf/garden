@@ -1,5 +1,5 @@
 public:: true
-tags:: #seed #infrastructure #github #logseq sync
+tags:: #sapling #infrastructure #github #logseq #sync
 
 - i'm not changing the title. long urls 5evr.
 	- did you know [[mastodon]] urls shorten down to like 32 characters? so this won't matter for my target audience lol
