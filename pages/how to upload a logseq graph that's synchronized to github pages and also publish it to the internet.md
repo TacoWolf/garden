@@ -1,2 +1,4 @@
 - i'm not changing the title.
--
+- # set up [[logseq]]
+	- or whatever your [[personal knowledge management]] tool of choice is.
+- # create a github account
