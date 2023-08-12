@@ -1,4 +1,5 @@
 public:: true
+tags:: #seed
 
 - i'm not changing the title.
 - # set up [[logseq]]
