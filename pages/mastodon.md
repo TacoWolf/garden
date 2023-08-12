@@ -1,1 +1,2 @@
-- one of the coolest social networks on [da fedoverse]
+- one of the coolest social networks on [da fedoverse](the fediverse).
+	- i have like
