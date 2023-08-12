@@ -1,8 +1,8 @@
 public:: true
 
 - things that i like that you should check out.
-- [[music]]
-- [[movies]]
-- [[shows]]
-- [[books]]
-- [[websites]]
+	- [[music]]
+	- [[movies]]
+	- [[shows]]
+	- [[books]]
+	- [[websites]]
