@@ -9,5 +9,5 @@ tags:: #seed #infrastructure #github #logseq sync
 	- i keep my notes in [this repo](https://github.com/TacoWolf/garden).
 	- i use [[logseq]]'s auto commit functionality to do the heavy lifting for me.
 - # set up the github auto publish file
-	- there's a [github action in the marketplace](https://github.com/marketplace/actions/logseq-publish-spa) that'll [[get you to the mountain]]
+	- there's a [github action in the marketplace](https://github.com/marketplace/actions/logseq-publish-spa) that'll [[take you to the mountain]]
 - # set up the
