@@ -35,4 +35,4 @@ tags:: #seed #infrastructure #github #logseq sync
 -
 - # set up the github repository for custom dns
 	- your [[dns]] provider is gonna have a different setup depending on what their web interface looks like, so i can't help you too much here. but you're going to need a `CNAME` record that redirects to `yourusername.github.io`. that will point that url to github's servers so it will know what domain it's needing to serve for that request it just got from your dns rerouting.
-	-
+	- set up a custom domain under your settings page, which is still something like `https://github.com/yourusername/yourrepo/settings/pages`. then input the custom domain and start pushing to your repo. the github robots will [[automagically]]
