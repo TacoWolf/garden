@@ -7,7 +7,7 @@ tags:: #seed #infrastructure #github #logseq sync
 - # create a new [[github]] [[repository]]
 	- you'll be using this to synchronize your notes in the cloud.
 	- i keep my notes in [this repo](https://github.com/TacoWolf/garden).
-	- i use [logseq's auto commit functionality] to
+	- i use [[logseq]]'s auto commit functionality to do the heavy lify
 	-
 - #
 -
