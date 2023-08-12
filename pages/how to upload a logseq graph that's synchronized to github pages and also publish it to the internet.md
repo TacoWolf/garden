@@ -1,5 +1,5 @@
 public:: true
-tags:: #seed
+tags:: #seed #infrastructure #github #logseq sync
 
 - i'm not changing the title.
 - # set up [[logseq]]
