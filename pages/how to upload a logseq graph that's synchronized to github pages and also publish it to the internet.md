@@ -33,4 +33,5 @@ tags:: #seed #infrastructure #github #logseq sync
 - this will publish your page at `yourusername.github.io/yourrepository`. HOWEVER, you probably want custom dns stuff like i've got setup. so you need to...
 -
 - # set up the github repository for custom dns
-	-
+	- you're going to want to go to `https://github.com/yourusername/yourrepo/settings/pages`. under here, you're going to want to select your source as `Deploy from a branch`. the
+-

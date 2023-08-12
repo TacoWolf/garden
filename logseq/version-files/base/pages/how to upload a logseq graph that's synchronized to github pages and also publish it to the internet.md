@@ -30,7 +30,7 @@ tags:: #seed #infrastructure #github #logseq sync
 		            folder: www
 		  ```
 -
-- this will publish your page at `yourusername.github.io/yourrepository`. HOWEVER, you probably want custom dns stuff like i've got setup. so you need to
+- this will publish your page at `yourusername.github.io/yourrepository`. HOWEVER, you probably want custom dns stuff like i've got setup. so you need to...
 -
-- # set up the github repository
-	-
+- # set up the github repository for custom dns
+	- you're going to want to go to
