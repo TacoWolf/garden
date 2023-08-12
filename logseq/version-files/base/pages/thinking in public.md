@@ -1,3 +1,3 @@
 - prev: [[thoughts]]
-- also known as [[learning in public]].
+-
 - next: [[zettlekasten]]
