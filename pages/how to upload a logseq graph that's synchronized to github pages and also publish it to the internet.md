@@ -34,5 +34,5 @@ tags:: #seed #infrastructure #github #logseq sync
 		- this will publish your page at `yourusername.github.io/yourrepository`. HOWEVER, you probably want custom dns stuff like i've got setup. so you need to...
 -
 - # set up the github repository for custom dns
-	- your [[dns]] provider is gonna have a different setup for every
+	- your [[dns]] provider is gonna have a different setup depending on what their web interface looks like, so i can't help you too much here. but you're going to need a `CNAME` record that redirects to `yourusername.github.io`. that will point that url to github's servers so it will know what
 -
