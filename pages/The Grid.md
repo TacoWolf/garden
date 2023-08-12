@@ -1,3 +1,5 @@
+public:: true
+
 - > The Grid.
   A digital frontier. 
   I tried to picture clusters of information as they moved through the computer.
@@ -8,3 +10,4 @@
   And then... one day....
   I got in.
 	- _Kevin Flynn, [Tron Legacy (2010)](https://en.wikipedia.org/wiki/Tron%3A_Legacy)_
+- {{video https://www.youtube.com/watch?v=4-J4duzP8Ng}}
