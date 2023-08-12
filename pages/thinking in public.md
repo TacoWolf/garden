@@ -1,0 +1,3 @@
+- prev: [[thoughts]]
+-
+- next: [[infrastructure]]
