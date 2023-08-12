@@ -1,4 +1,6 @@
+public:: true
+
+- prev: [[seed]]
+- a sapling is a page that has been given a lot of love and attention, promoting its eventual growth into a [[tree]] of knowledge.
+- next: [[tree]]
 -
-- from the minecraft wiki:
-- > A **sapling** is a non-solid [block](https://breezewiki.com/minecraft/wiki/Block) that can be grown into a [tree](https://breezewiki.com/minecraft/wiki/Tree).
-- next: [[evergreen]]
