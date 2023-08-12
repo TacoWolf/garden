@@ -1,3 +1,2 @@
 - ROCK AND ROLL!
-- > Good peopl, good times. Right on! Rock 'n' roll, Tim Smith is fun to say, Tim Smith
 - {{video https://www.youtube.com/watch?v=eOofWzI3flA}}
