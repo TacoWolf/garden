@@ -9,4 +9,4 @@
 	  ```
 	- this allows me to [[hyperlink]] to another related concept, keep engagement with another, related idea, and give it metadata to sort through. nothing more, nothing less! [[keep it simple]], part of [[lazy engineering]]. 😎🤙
 - next: [[gardening habits]]
--
+- tags:: #seed #zettlekasten #[[digital garden]]
