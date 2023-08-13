@@ -1,3 +1,2 @@
-public:: true
-
--
+- asdf
+tags:: #seed
