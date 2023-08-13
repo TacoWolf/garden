@@ -5,4 +5,5 @@ public:: true
 	- [[movies]]
 	- [[shows]]
 	- [[books]]
+	- [[games]]
 	- [[websites]]

@@ -1,3 +1,6 @@
+public:: true
+tags:: #persona
+
 - prev: [[take a break]]
-- ![An animated gif showcasing ](../assets/Persona-5-Take-Your-Time-gif-001-20170730_1691893079229_0.gif)
+- ![An animated gif showcasing Joker from Persona 5 spinning with stylized text saying "Take Your Time".](../assets/Persona-5-Take-Your-Time-gif-001-20170730_1691893079229_0.gif)
 - next: [[lazy engineering]]
