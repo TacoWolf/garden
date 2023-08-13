@@ -6,6 +6,6 @@
 	- from [maggie appleton's article](https://maggieappleton.com/garden-history)
 		- tom chritchlow's [wikifolders](https://tomcritchlow.com/wiki/)
 		- buster benson's [piles](https://busterbenson.com/piles) and [codex](https://busterbenson.com/codex)
-		-
+		- nathaniel ellison's [notes](https://www.nateliason.com/notes)
 - ### references
 tags:: #seed
