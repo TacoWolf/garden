@@ -1,12 +1,9 @@
-public:: true
-tags:: #sapling #infrastructure #github #logseq #sync
-
 - > taco: logseq was the answer i wanted the whole time
   taco: it was sitting in front of me
   taco: i pay for it
   taco: i'm just dumb.
   taco: but here we are
-	- m
+	- me, in the [birdcat cafe matrix server](https://chat.birdcat.cafe)
 - i'm not changing the title. long urls 5evr.
 	- did you know [[mastodon]] urls shorten down to like 32 characters? so this won't matter for my target audience lol
 - # set up [[logseq]]
@@ -43,4 +40,5 @@ tags:: #sapling #infrastructure #github #logseq #sync
 	- your [[dns]] provider is gonna have a different setup depending on what their web interface looks like, so i can't help you too much here. but you're going to need a `CNAME` record that redirects to `yourusername.github.io`. that will point that url to github's servers so it will know what domain it's needing to serve for that request it just got from your dns rerouting.
 	- set up a custom domain under your settings page, which is still something like `https://github.com/yourusername/yourrepo/settings/pages`. then input the custom domain and start pushing to your repo. the github robots will [[automagically]] do the work for you. you can see examples of pages being pushed [here](https://github.com/TacoWolf/garden/actions/workflows/publish.yml).
 - # look at all of its majesty
-	- at the live url. [ta-daaaa!](https://garden.birdcat.cafe)
+	- check out the live url. [ta-daaaa!](https://garden.birdcat.cafe) it should be working now.
+- tags:: #sapling #infrastructure #github #logseq #sync
