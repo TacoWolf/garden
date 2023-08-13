@@ -1,6 +1,12 @@
 public:: true
 tags:: #sapling #infrastructure #github #logseq #sync
 
+- > taco: logseq was the answer i wanted the whole time
+  taco: it was sitting in front of me
+  taco: i pay for it
+  taco: i'm just dumb.
+  taco: but here we are
+	- m
 - i'm not changing the title. long urls 5evr.
 	- did you know [[mastodon]] urls shorten down to like 32 characters? so this won't matter for my target audience lol
 - # set up [[logseq]]
