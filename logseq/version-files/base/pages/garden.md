@@ -1,2 +1,4 @@
-- the garden here at the [birdcat cafe](https://garden.birdcat.cafe)
+- the garden here at the [birdcat cafe](https://garden.birdcat.cafe) has multiple types of flora and fauna.
+	- [flowers](flower) are
+	-
 -
