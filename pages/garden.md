@@ -1,6 +1,6 @@
 - the garden here at the [birdcat cafe](https://garden.birdcat.cafe) has multiple types of flora and fauna.
 - the [[gardener]] around here has a system. here's a rundown:
-	- [seed](seeds)
+	- [seeds](seed) are new pages that have been recently been planted. they're just coming out of their shell,
 	- [flowers](flower) are planted throughout the garden to bring color to the plant beds.
 -
 -
