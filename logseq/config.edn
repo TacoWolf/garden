@@ -46,7 +46,7 @@
 
  ;; Display all lines of a block when referencing ((block)).
  ;; Default value: false
- :ui/show-full-blocks? false
+ :ui/show-full-blocks? true
 
  ;; Automatically expand block references when zooming in.
  ;; Default value: true
@@ -414,4 +414,6 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
- :graph/settings {:journal? false, :builtin-pages? false}}
+ :graph/settings {:journal? false, :builtin-pages? false}
+ :ui/show-brackets? true
+ :editor/preferred-pasting-file? true}
