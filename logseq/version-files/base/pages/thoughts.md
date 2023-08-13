@@ -1,5 +1,3 @@
-public:: true
-
 - these are ideas that i have that i want to share! this is part of [[thinking in public]].
 - i usually add information to my public garden to process into a public page that i then publish
 - things i'm currently thinking about:
