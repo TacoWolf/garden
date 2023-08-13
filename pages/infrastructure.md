@@ -1,7 +1,8 @@
 public:: true
+tags:: #seed
 
 - prev: [[entrance]]
 - [[The Grid]].
-- this is a collection of
+- this is a collection of (hopefully) helpful texts to guide you in the
 - # website hosting
 	- [[how to upload a logseq graph that's synchronized to github pages and also publish it to the internet]]
