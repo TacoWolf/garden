@@ -415,5 +415,5 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
  :graph/settings {:journal? false, :builtin-pages? false}
- :ui/show-brackets? true
+ :ui/show-brackets? false
  :editor/preferred-pasting-file? true}

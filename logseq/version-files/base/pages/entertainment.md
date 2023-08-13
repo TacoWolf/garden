@@ -1,5 +1,4 @@
 public:: true
-
 - things that i like that you should check out.
 	- [[music]]
 	- [[movies]]

@@ -1,6 +1,5 @@
 public:: true
 tags:: #seed
-
 - prev: [[entrance]]
 - [[The Grid]].
 - this is a collection of (hopefully) helpful texts to guide you *en el mundo de la informática* {the world of technology}.
