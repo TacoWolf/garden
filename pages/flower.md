@@ -1,0 +1,3 @@
+- prev: [[garden]]
+- flowers are pages that add color to otherwise dull greenery.
+- next: [[seed]]
