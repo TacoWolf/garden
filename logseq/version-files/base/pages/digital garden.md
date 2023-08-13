@@ -5,6 +5,7 @@
 - ## other gardens to look at
 	- from [maggie appleton's article](https://maggieappleton.com/garden-history)
 		- tom chritchlow's [wikifolders](https://tomcritchlow.com/wiki/)
-		- buster benson's [piles](https://busterbenson.com/piles)
+		- buster benson's [piles](https://busterbenson.com/piles) and [codex](https://busterbenson.com/codex)
+		-
 - ### references
 tags:: #seed
