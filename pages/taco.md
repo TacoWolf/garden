@@ -1,4 +1,8 @@
+- 🌮
+-
 - [[mastodon]] accounts:
-	- https://tilde.club/@taco
+	- real peopleposting: https://tilde.club/@taco
+	- techposting: https://furry.engineer/@taco
+	- furryposting: https://meow.social/@chirpbirb
 	-
 - https://keyoxide.org/daniel@tacowolf.net
