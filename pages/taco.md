@@ -7,5 +7,5 @@
 	- real peopleposting: https://tilde.club/@taco
 	- techposting: https://furry.engineer/@taco
 	- furryposting: https://meow.social/@chirpbirb
-	-
-- https://keyoxide.org/daniel@tacowolf.net
+- cool #gpg stuff:
+	- https://keyoxide.org/daniel@tacowolf.net
