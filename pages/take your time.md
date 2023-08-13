@@ -1,2 +1,3 @@
-- prev: [[lazy engineering]]
-- next: [[]]
+- prev: [[take a break]]
+-
+- next: [[lazy engineering]]
