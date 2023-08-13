@@ -4,8 +4,6 @@
   taco: i'm just dumb.
   taco: but here we are
 	- me, in the [birdcat cafe matrix server](https://chat.birdcat.cafe)
-- i'm not changing the title. long urls 5evr.
-	- did you know [[mastodon]] urls shorten down to like 32 characters? so this won't matter for my target audience lol
 - # set up [[logseq]]
 	- or whatever your [[personal knowledge management]] tool of choice is.
 - # create a new [[github]] [[repository]]
@@ -42,3 +40,5 @@
 - # look at all of its majesty
 	- check out the live url. [ta-daaaa!](https://garden.birdcat.cafe) it should be working now.
 - tags:: #sapling #infrastructure #github #logseq #sync
+	- i'm not changing the title. long urls 5evr.
+		- did you know [[mastodon]] urls shorten down to like 32 characters? so this won't matter for my target audience lol
