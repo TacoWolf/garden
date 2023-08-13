@@ -1,4 +1,3 @@
-public:: true
 tags:: #persona #flower
 
 - prev: [[take a break]]
