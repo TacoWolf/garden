@@ -1,3 +1,4 @@
+- ![Screenshot from 2023-08-12 23-36-59.png](../assets/Screenshot_from_2023-08-12_23-36-59_1691898902368_0.png)
 - the garden here at the [birdcat cafe](https://garden.birdcat.cafe) has multiple types of flora and fauna.
 - the [[gardener]] around here has a system. here's a rundown:
 	- [seed](seeds)
