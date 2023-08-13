@@ -1,1 +1,2 @@
-- [[the fediverse]]
+- the fediverse is a collective term for [[activitypub]] compatible stuff, pretty much.
+- tags:: #seed

@@ -1,3 +1,3 @@
-- one of the coolest social networks on [da fedoverse](the fediverse).
+- one of the coolest social networks on [da fedoverse](fediverse).
 	- i have like 80 accounts. [you'll never find me](https://meow.social/@chirpbirb).
 - tags:: #seed #flower
