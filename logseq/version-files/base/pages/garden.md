@@ -1,4 +1,4 @@
-- the garden here at the [birdcat cafe](https://garden.birdcat.cafe) has multiple types of flora and fauna.
+- the garden here at the [birdcat cafe](https://birdcat.cafe) has multiple types of flora and fauna.
 - the [[gardener]] around here has a system. here's a rundown:
 	- [seeds](seed) are new pages that have been recently been planted. they're just coming out of their shell, so they may be a little sparse with information and formatting!
 	- [saplings](sapling) are pages that have a basic structure and are somewhat reference-able.
