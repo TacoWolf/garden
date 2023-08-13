@@ -1,4 +1,4 @@
-- ![](../assets/Screenshot_from_2023-08-12_23-36-59_1691898902368_0.png)
+-
 	- 🎨 artwork by [@orinoxide@mastodon.art](https://mastodon.art/@orinoxide)
 - please observe the sections of the [[garden]] we maintain at your leisure. [[take your time]].
 	- 🤔 [[thoughts]] - ideas we're thinking on. watch them grow into [seeds](seed) in real time.
