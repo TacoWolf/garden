@@ -1,5 +1,4 @@
-tags:: #[[open source]] #[[personal knowledge management]] #[[[[open source]] software]]
+tags:: #[[open source]] #[[personal knowledge management]]
 
 - prev: [[personal knowledge management]]
-- next: [[[[open source]] software]]
--
+- next: [[open source software]]
