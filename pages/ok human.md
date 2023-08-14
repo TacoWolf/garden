@@ -1,0 +1,3 @@
+- prev: [[weezer]]
+- a 2021 album by [[weezer]]
+- next: [[numbers]]
