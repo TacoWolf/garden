@@ -1,0 +1,3 @@
+- prev: [[games]]
+- next: [[[[pathfinder]] 2]]
+- tags:: #seed
