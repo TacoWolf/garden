@@ -1,7 +1,10 @@
 - prev: [[entertainment]]
 - these are all of the sick jams i like.
 - # artists
+	- [[weezer]]
 - # albums
+	- [[ok human]]
 - # songs
-- # playlists
+	- [[numbers]]
+- next: [[movies]]
 - tags:: #seed

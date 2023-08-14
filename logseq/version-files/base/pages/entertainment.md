@@ -1,4 +1,4 @@
-public:: true
+- prev: [[entrance]]
 - things that i like that you should check out.
 	- [[music]]
 	- [[movies]]
@@ -6,3 +6,4 @@ public:: true
 	- [[books]]
 	- [[games]]
 	- [[websites]]
+- next: [[infrastructure]]
