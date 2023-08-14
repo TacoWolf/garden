@@ -1,4 +1,5 @@
 - prev: [[weezer]]
+- {{video https://www.youtube.com/watch?v=87axhQ0d7VQ&list=PLg4pQIhMIijUrgw_EAEGJO_HFImZHpK5V}}
 - a 2021 album by [[weezer]].
 	- wikipedia
 	- genius
