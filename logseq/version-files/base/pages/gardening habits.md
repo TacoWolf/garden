@@ -5,7 +5,6 @@
 		- i use journals in my personal logseq notes, though!
 	- plant lots of [[flower]]s to break up monotony.
 		- like [[easter eggs]]!
-	- stick to [[lowercase]] as much as possible.
-		- this helps keep things looking
+	-
 	-
 	-
