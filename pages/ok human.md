@@ -1,5 +1,8 @@
 - prev: [[weezer]]
 - a 2021 album by [[weezer]].
 	- [official youtube playlist](https://www.youtube.com/playlist?list=PLg4pQIhMIijUrgw_EAEGJO_HFImZHpK5V)
-	-
+	- wikipedia
+	- genius
+	- spotify
+	- tidal
 - next: [[numbers]]
