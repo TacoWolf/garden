@@ -1,5 +1,6 @@
 tags:: #flower #music
 
+- {{video https://www.youtube.com/watch?v=4-J4duzP8Ng}}
 - > the grid.
   a digital frontier. 
   i tried to picture clusters of information as they moved through the computer.
@@ -9,5 +10,4 @@ tags:: #flower #music
   i kept dreaming of a world I thought I'd never see. 
   and then... one day....
   i got in.
-	- {{video https://www.youtube.com/watch?v=4-J4duzP8Ng}}
 	- _kevin flynn, [[tron: legacy]]_

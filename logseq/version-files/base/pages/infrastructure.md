@@ -1,7 +1,7 @@
 tags:: #seed, #section
 
 - prev: [[entrance]]
-- this is a collection of (hopefully) helpful texts to guide you to use [[The Grid]] *en el mundo de la informática* {the world of technology}.
+- this is a collection of (hopefully) helpful texts to guide you to use [[the grid]] *en el mundo de la informática* {the world of technology}.
 - # topics
 	- ## [[personal knowledge management]]
 		- [[logseq]]
