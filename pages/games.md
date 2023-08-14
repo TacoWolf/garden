@@ -26,6 +26,9 @@
 	- [[dark souls]]
 	- [[[[middle-earth]]: shadow of mordor]]
 	- [[distance]]
+	- [[night in the woods]]
+	- [[[[street fighter]] 6]]
+	- [[pinball fx 3]]
 	-
 - [[tabletop [[games]]]]
 	- [[dungeons and dragons]]
