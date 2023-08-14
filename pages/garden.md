@@ -1,4 +1,4 @@
-tags:: #seed, #garden
+tags:: #seed
 
 - prev: [[entrance]]
 - the garden here at the [birdcat cafe](https://birdcat.cafe) contains multiple types of flora and fauna.
