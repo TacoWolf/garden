@@ -2,7 +2,7 @@
 - a 2021 album by [[weezer]].
 	- [official youtube playlist](https://www.youtube.com/playlist?list=PLg4pQIhMIijUrgw_EAEGJO_HFImZHpK5V)
 	- [wikipedia](https://en.wikipedia.org/wiki/OK_Human)
-	- genius
-	- spotify
+	- [genius](https://genius.com/albums/Weezer/Ok-human)
+	- [spotify](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl)
 	- tidal
 - next: [[numbers]]
