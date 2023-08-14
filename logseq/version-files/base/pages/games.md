@@ -1,2 +1,5 @@
-public:: true
+- prev:
+- [[video [[games]]]]
+- [[tabletop [[games]]]]
+- [[card [[games]]]]
 -
