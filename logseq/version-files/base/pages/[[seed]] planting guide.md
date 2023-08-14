@@ -11,4 +11,5 @@ tags:: #seed #zettlekasten #[[digital garden]]
 	  ```
 	- this allows me to [[hyperlink]] to another related concept, keep engagement with another, related idea, and give it metadata to sort through. nothing more, nothing less! [[keep it simple]], part of [[lazy engineering]]. 😎🤙
 	- the reason why tags are at the top is to take advantage of [[logseq]]'s built in tagging system. :3
+	-
 - next: [[gardening habits]]
