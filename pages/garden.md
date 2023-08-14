@@ -1,3 +1,6 @@
+tags:: #seed
+
+- prev: [[entrance]]
 - the garden here at the [birdcat cafe](https://birdcat.cafe) contains multiple types of flora and fauna.
 - the [[gardener]] around here has a system for the [[digital garden]] they maintain. here's a rundown:
 	- [seeds](seed) are new pages that have been recently been planted. they're just coming out of their shell, so they may be a little sparse with information and formatting!
@@ -6,3 +9,4 @@
 	- [evergreens](evergreen) are pages that have been consistently reliable to reference and have become evergreen
 	- [flowers](flower) are planted throughout the garden to bring color to the plant beds.
 - do you have recommendations for the garden? reach out to the [[gardener]] or file an [issue on github](https://github.com/TacoWolf/garden/issues).
+- next: [[gardening habits]]
