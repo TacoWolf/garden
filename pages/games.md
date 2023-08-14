@@ -1,5 +1,11 @@
 - prev: [[entertainment]]
 - [[video [[games]]]]
+	- [[hades]]
+	- [[vampire survivors]]
+	- [[rimworld]]
+	- [[the binding of issac]]
+	- [[dyson sphere program]]
+	- [[celeste]]
 	-
 - [[tabletop [[games]]]]
 	-
