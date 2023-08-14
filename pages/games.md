@@ -1,6 +1,6 @@
 - prev: [[entertainment]]
 - [[video [[games]]]]
-	- {{query (tags [[video [[games]]]] }}
+	- {{query (property tags )}}
 	-
 	- [[hades]]
 	- [[vampire survivors]]
