@@ -11,8 +11,11 @@
 	- [[[[fallout]]: new vegas]]
 	- [[cult of the lamb]]
 	- [[valheim]]
-	-
+	- [[yakuza: [[like a dragon]]]]
+	- [[[[baldur's gate]] 3]]
 - [[tabletop [[games]]]]
+	- [[dungeons and dragons]]
+	- [[pathfinder]] / [[[[pathfinder]] 2]]
 	-
 - [[card [[games]]]]
 	- [[magic the gathering]]
