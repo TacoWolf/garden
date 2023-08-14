@@ -1,4 +1,6 @@
-- prev: [[linux]]
-- so... *technically*, the [[linux]] [[open source]] [[operating system]] is actually built upon the [[gnu]] core utilities. so a lot of people are kinda pedantic about it? call it whatever you want, i don't care.
-- next: [[alpine]]
 -
+- prev: [[linux]]
+- an alternative / "more accurate" name for [[linux]]
+- *technically*, the [[linux]] [[open source]] [[operating system]] is actually built upon the [[gnu]] core utilities.
+	- a lot of people are kinda pedantic about it? call it whatever you want, i don't care.
+- next: [[alpine]]
