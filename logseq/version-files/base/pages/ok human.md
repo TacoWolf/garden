@@ -1,7 +1,5 @@
 - prev: [[weezer]]
-- {{video https://www.youtube.com/watch?v=87axhQ0d7VQ&list=PLg4pQIhMIijUrgw_EAEGJO_HFImZHpK5V}}
+- {{video https://youtu.be/87axhQ0d7VQ?list=PLg4pQIhMIijUrgw_EAEGJO_HFImZHpK5V}}
+  id:: 64da5722-ec9b-4885-bf64-1f0e509ba9d3
 - a 2021 album by [[weezer]].
-	- wikipedia
-	- genius
-	-
 - next: [[numbers]]
