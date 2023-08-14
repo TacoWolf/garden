@@ -1,1 +1,3 @@
-- video games are electronic games that usually require user input to move things on a display.
+- video games are electronic games that usually require [[user input]] to move things on a display.
+- read more [here](https://en.wikipedia.org/wiki/Video_game).
+-
