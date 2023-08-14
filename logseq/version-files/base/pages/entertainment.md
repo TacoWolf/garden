@@ -1,5 +1,5 @@
 - prev: [[entrance]]
-- things that i like that you should check out.
+- things that we like that you should check out.
 	- [[music]]
 	- [[movies]]
 	- [[shows]]
@@ -7,3 +7,4 @@
 	- [[games]]
 	- [[websites]]
 - next: [[infrastructure]]
+-
