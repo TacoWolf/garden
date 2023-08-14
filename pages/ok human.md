@@ -6,3 +6,4 @@
 	- [spotify](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl)
 	- [tidal](https://tidal.com/browse/album/170974425)
 - next: [[numbers]]
+- tags:: #music #rock #alternative #pop
