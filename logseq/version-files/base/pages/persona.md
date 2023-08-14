@@ -1,3 +1,3 @@
 - prev: [[games]]
-- a series of games by atlus.
+- a series of games by [atlus](https://en.wikipedia.org/wiki/Atlus).
 - next: [[persona 4]]
