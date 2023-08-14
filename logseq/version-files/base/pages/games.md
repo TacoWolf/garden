@@ -1,6 +1,5 @@
 - prev: [[entertainment]]
 - [[video [[games]]]]
-	- {{query (all-page-tags)}}
 	- [[hades]]
 	- [[vampire survivors]]
 	- [[rimworld]]
@@ -44,4 +43,4 @@
 	- [[magic the gathering]]
 	- [[fluxx]]
 - next: [[video [[games]]]]
-- tags:: #seed
+- tags:: #seed, #section
