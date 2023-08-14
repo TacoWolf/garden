@@ -1,4 +1,6 @@
 - prev: [[tabletop [[games]]]]
 - nobody wants to play this with me. lmao.
+- links:
+	- rpg geek link
 - next: [[hot gay bro dragons]]
 -
