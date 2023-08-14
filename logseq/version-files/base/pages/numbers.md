@@ -1,7 +1,7 @@
 - prev: [[ok human]]
 - > [Numbers is a song about every person’s discontent with their inadequacies and flaws, and how none of those things really matter as much they’d like to think. - Genius](https://genius.com/Weezer-numbers-lyrics)
-- > [[verse]] 1
-  there's always a number that'll make you feel bad about yourself
+- [[verse]] 1
+  > there's always a number that'll make you feel bad about yourself
   you try to measure up, try to measure up to somebody else
   numbers are out to get you
   numbers are out to get you
@@ -11,8 +11,8 @@
   numbers are out to get you
   numbers are out to get you
   numbers, ooh
-- > [[verse]] 2
-  look at him, look at her, they've got a million likes
+- [[verse]] 2
+  > look at him, look at her, they've got a million likes
   you better figure out how to multiply, divide
   numbers are out to get you
   they'll kill you if they get through
