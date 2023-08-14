@@ -34,10 +34,10 @@
 	- [[the witness]]
 	- [[no man's sky]]
 	- [[[[the witcher]] 3: wild hunt]]
-	-
 - [[tabletop [[games]]]]
 	- [[dungeons and dragons]]
 	- [[pathfinder]] / [[[[pathfinder]] 2]]
+	- [[hot gay bro dragons]]
 	- [[kill puppies for satan]]
 - [[card [[games]]]]
 	- [[magic the gathering]]
