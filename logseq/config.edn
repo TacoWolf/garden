@@ -414,6 +414,6 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
- :graph/settings {:journal? false, :builtin-pages? false}
+ :graph/settings {:journal? false, :builtin-pages? true}
  :ui/show-brackets? false
  :editor/preferred-pasting-file? true}

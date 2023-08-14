@@ -1,2 +1,3 @@
-public:: true
+- prev: [[personal knowledge management]]
+- next: [[[[open source]] software]]
 -
