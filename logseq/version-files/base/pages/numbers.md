@@ -1,3 +1,5 @@
+tags:: #flower #music #weezer
+
 - prev: [[ok human]]
 - {{video https://youtu.be/_RCvJoti-QY}}
 - {{video https://youtu.be/5BfYBU6l1oo}}
@@ -20,4 +22,3 @@
   they'll kill you if they get through
   numbers, ooh
 - next: [[social media]]
-- tags:: #flower #music #weezer
