@@ -2,6 +2,8 @@
 - an rpg by lumpley games.
 - nobody wants to play this with me. lmao.
 - where to find it:
+	- [lumpley games](https://lumpley.games/)
+	-
 	- [rpggeek](https://rpggeek.com/rpg/867/kill-puppies-satan)
 - next: [[hot gay bro dragons]]
 - tags:: #rpg #satan #[[tabletop [[games]]]]
