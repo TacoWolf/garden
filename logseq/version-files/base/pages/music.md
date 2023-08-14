@@ -6,5 +6,6 @@
 	- [[ok human]]
 - # songs
 	- [[numbers]]
+	- [[the grid]]
 - next: [[movies]]
 - tags:: #seed
