@@ -1,3 +1,5 @@
+tags:: #seed, #section
+
 - prev: [[entertainment]]
 - [[video [[games]]]]
 	- [[hades]]
@@ -43,4 +45,4 @@
 	- [[magic the gathering]]
 	- [[fluxx]]
 - next: [[video [[games]]]]
-- tags:: #seed, #section
+-
