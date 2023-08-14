@@ -38,7 +38,7 @@
 - [[tabletop [[games]]]]
 	- [[dungeons and dragons]]
 	- [[pathfinder]] / [[[[pathfinder]] 2]]
-	-
+	- [[kill puppies for satan]]
 - [[card [[games]]]]
 	- [[magic the gathering]]
 	- [[fluxx]]

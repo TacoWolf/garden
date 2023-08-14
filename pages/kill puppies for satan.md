@@ -1,0 +1,4 @@
+- prev: [[tabletop [[games]]]]
+- nobody wants to play this with me. lmao.
+- next: [[[[pathfinder]] 2]]
+-
