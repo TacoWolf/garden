@@ -1,4 +1,6 @@
 - prev: [[tabletop [[games]]]]
 - nobody wants to play this with me. lmao.
+- where to find it:
+	- [rpggeek](https://rpggeek.com/rpg/867/kill-puppies-satan)
 - next: [[hot gay bro dragons]]
--
+- tags:: #rpg #satan #[[tabletop [[games]]]]
