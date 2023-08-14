@@ -1,5 +1,7 @@
-- prev:
+- prev: [[entertainment]]
 - [[video [[games]]]]
+	-
 - [[tabletop [[games]]]]
 - [[card [[games]]]]
--
+- next: [[video [[games]]]]
+- tags:: #seed
