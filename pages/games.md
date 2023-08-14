@@ -6,6 +6,11 @@
 	- [[the binding of issac]]
 	- [[dyson sphere program]]
 	- [[celeste]]
+	- [[stardew valley]]
+	- [[persona 4]]
+	- [[[[fallout]]: new vegas]]
+	- [[cult of the lamb]]
+	- [[valheim]]
 	-
 - [[tabletop [[games]]]]
 	-
