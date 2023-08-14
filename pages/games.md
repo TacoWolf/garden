@@ -13,6 +13,12 @@
 	- [[valheim]]
 	- [[yakuza: [[like a dragon]]]]
 	- [[[[baldur's gate]] 3]]
+	- [[the talos principle]]
+	- [[boneraiser minions]]
+	- [[spin rhythm xd]]
+	- [[mini metro]]
+	- [[mini motorways]]
+	-
 - [[tabletop [[games]]]]
 	- [[dungeons and dragons]]
 	- [[pathfinder]] / [[[[pathfinder]] 2]]
