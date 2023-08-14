@@ -4,5 +4,5 @@
 	- [wikipedia](https://en.wikipedia.org/wiki/OK_Human)
 	- [genius](https://genius.com/albums/Weezer/Ok-human)
 	- [spotify](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl)
-	- tidal
+	- [tidal](https://tidal.com/browse/album/170974425)
 - next: [[numbers]]
