@@ -1,0 +1,4 @@
+- prev: [[ok human]]
+-
+- next: [[social media]]
+- tags:: #flower #music #weezer
