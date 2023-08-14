@@ -1,4 +1,4 @@
 - prev: [[tabletop [[games]]]]
 - nobody wants to play this with me. lmao.
-- next: [[hot gay bro dragons]]
+- next: [[[[pathfinder]] 2]]
 -
