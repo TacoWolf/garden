@@ -2,6 +2,9 @@
 - [[video [[games]]]]
 	-
 - [[tabletop [[games]]]]
+	-
 - [[card [[games]]]]
+	- [[magic the gathering]]
+	- [[fluxx]]
 - next: [[video [[games]]]]
 - tags:: #seed
