@@ -1,3 +1,5 @@
+tags:: #sapling #infrastructure #github #logseq #sync
+
 - > taco: logseq was the answer i wanted the whole time
   taco: it was sitting in front of me
   taco: i pay for it
@@ -39,6 +41,5 @@
 	- set up a custom domain under your settings page, which is still something like `https://github.com/yourusername/yourrepo/settings/pages`. then input the custom domain and start pushing to your repo. the github robots will [[automagically]] do the work for you. you can see examples of pages being pushed [here](https://github.com/TacoWolf/garden/actions/workflows/publish.yml).
 - # look at all of its majesty
 	- check out the live url. [ta-daaaa!](https://garden.birdcat.cafe) it should be working now.
-- tags:: #sapling #infrastructure #github #logseq #sync
-	- i'm not changing the title. long urls 5evr.
-		- did you know [[mastodon]] urls shorten down to like 32 characters? so this won't matter for my target audience lol
+- i'm not changing the title. long urls 5evr.
+	- did you know [[mastodon]] urls shorten down to like 32 characters? so this won't matter for my target audience lol
