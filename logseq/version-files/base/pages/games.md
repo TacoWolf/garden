@@ -1,5 +1,7 @@
 - prev: [[entertainment]]
 - [[video [[games]]]]
+	- {{query (page-tags [[video [[games]]]])}}
+	  query-table:: false
 	- [[hades]]
 	- [[vampire survivors]]
 	- [[rimworld]]
