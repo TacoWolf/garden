@@ -1,14 +1,8 @@
 tags:: #seed, #section
 
 - prev: [[entertainment]]
-- [[video [[games]]]]
-- [[tabletop [[games]]]]
-	- [[dungeons and dragons]]
-	- [[pathfinder]] / [[[[pathfinder]] 2]]
-	- [[hot gay bro dragons]]
-	- [[kill puppies for satan]]
-- [[card [[games]]]]
-	- [[magic the gathering]]
-	- [[fluxx]]
+- there are many types of games to play! here is a non-exhaustive list of games the [[gardener]] likes.
+	- [[video [[games]]]]
+	- [[tabletop [[games]]]]
+	- [[card [[games]]]]
 - next: [[video [[games]]]]
--
