@@ -1,5 +1,5 @@
 - prev: [[ok human]]
-- >
+- > Numbers is a song about every person’s discontent with their inadequacies and flaws, and how none of those things really matter as much they’d like to think. - Genius
 - {{video https://youtu.be/_RCvJoti-QY}}
 - {{video https://youtu.be/5BfYBU6l1oo}}
 - next: [[social media]]
