@@ -7,9 +7,9 @@ tags:: #sapling #infrastructure #github #logseq #sync
   taco: but here we are
 	- me, in the [birdcat cafe matrix server](https://chat.birdcat.cafe)
 - # set up [[logseq]]
-	- or whatever your [[personal knowledge management]] tool of choice is.
+	- or whatever your [[personal knowledge management]] tool of choice is. this specific guide requires the use of logseq, though.
 - # create a new [[github]] [[repository]]
-	- you'll be using this to synchronize your notes in the cloud.
+	- you'll be using this to synchronize your notes in [[the cloud]].
 	- i keep my notes in [this repo](https://github.com/TacoWolf/garden).
 	- i use [[logseq]]'s auto commit functionality to do the heavy lifting for me.
 - # set up the github auto publish file
