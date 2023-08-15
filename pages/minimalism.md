@@ -1,4 +1,4 @@
-tags:: #principle #[[core concepts]]
+tags:: #principle #[[core concepts]] #seed
 
 - **prev:** [[design]]
 -

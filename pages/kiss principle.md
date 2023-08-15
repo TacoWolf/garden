@@ -1,4 +1,4 @@
-tags:: #principle
+tags:: #principle #seed
 
 - **prev:** [[minimalism]]
 - > **k**eep **i**t **s**imple, **s**tupid!
