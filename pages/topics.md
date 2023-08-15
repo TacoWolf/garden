@@ -1,1 +1,11 @@
+- topics that we wish to cover
 - #culture
+- #games
+- #health
+- #life
+- #money
+- #movies
+- #music
+- #science
+- #shows
+- #technology
