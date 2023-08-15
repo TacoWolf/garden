@@ -1,4 +1,4 @@
-tags:: #technology #programming #[[programming language]] #infrastructure
+tags:: #technology #[[programming language]] #infrastructure
 
 - **prev:** [[programming language]]
 -
