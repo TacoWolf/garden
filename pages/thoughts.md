@@ -3,7 +3,7 @@ tags:: #seed #section
 - **prev:** [[entrance]]
 - these are ideas that we have that we want to share! this is part of [[thinking in public]].
 - we usually add information to my public garden to process into a public page that we then publish to github pages and serve here on `garden.birdcat.cafe`. you can see how to do this using [[logseq]] here: [[how to upload a logseq graph that's synchronized to github pages and also publish it to the internet]]
-	- things i'm currently [[thinking in public]] about:
+	- things we're currently [[thinking in public]] about:
 		- # [[topics]]
 			- #culture
 			- #science
@@ -19,3 +19,4 @@ tags:: #seed #section
 				- [[gardening habits]]
 	- if an article moves from here, don't worry! it has most likely graduated to become a piece of #infrastructure.
 - **next:** [[entertainment]]
+-
