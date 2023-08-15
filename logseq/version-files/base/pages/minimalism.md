@@ -1,5 +1,5 @@
-tags::
+tags:: #principle #[[core concepts]]
 
 - **prev:** [[design]]
 -
-- **next:**
+- **next:** [[keep it simple]]
