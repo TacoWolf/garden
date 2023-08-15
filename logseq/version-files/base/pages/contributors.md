@@ -1,4 +1,4 @@
-# head [[head gardener]]
+# head [[gardener]]
 	- [[taco]].
 - # [[gardeners]]
 	-
