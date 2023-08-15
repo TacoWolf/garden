@@ -12,7 +12,9 @@ tags:: #seed #section
 			- #health
 			- #money
 			- #games
-			-
+			- #music
+			- #movies
+			- #shows
 			- #life
 				- [[gardening habits]]
 	- if an article moves from here, don't worry! it has most likely graduated to become a piece of #infrastructure.
