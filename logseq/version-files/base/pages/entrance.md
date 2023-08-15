@@ -1,3 +1,5 @@
+tags:: #sapling
+
 - ![aeolus.thisisfine.ych.tropicals.orinoxide.compressed.png](../assets/aeolus.thisisfine.ych.tropicals.orinoxide.compressed_1691948586264_0.png){:height 726, :width 718}
 	- > this is fine. :3
 	- 🎨 artwork by  [oxide](https://oxide.space/) / [@orinoxide@mastodon.art](https://mastodon.art/@orinoxide).
@@ -6,4 +8,3 @@
 	- 👀 **[[entertainment]]** - things that activate my bio-digital jazz, man.
 	- ⚙️ **[[infrastructure]]** - technology, code, guides, etc.
 - [is there a weed]([[is that a [[weed]]]])? let me know by [filing an issue on github](https://github.com/TacoWolf/garden/issues).
-  tags:: #sapling
