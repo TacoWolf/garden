@@ -1,2 +1,2 @@
 - > a system of notation for writing computer programs. - [Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
-- programming languages are usually split into the [[syntax]] and [[semantics]], defined by [[language]].
+- programming languages are usually split into *syntax* (form) and *semantics* (meaning). these are usually defined by a [formal language](https://en.wikipedia.org/wiki/Formal_language) or a big fancy specification
