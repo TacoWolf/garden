@@ -1,7 +1,7 @@
-# head [[head gardener]]
+# [[head gardener]]
 	- [[taco]].
 - # [[gardeners]]
-	-
-	-
+	- nobody else here yet but us chickens!
 - ## the garden is brought to you by...
-	- ...and readers you! thank you. :)
+	- john mastodon
+	- ...readers like you! thank you. :)

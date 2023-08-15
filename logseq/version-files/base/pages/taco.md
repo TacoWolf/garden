@@ -1,6 +1,6 @@
-tags:: #meta #taco
+tags:: #gardeners #meta
 
-- **prev:** [[gardener]]
+- **prev:** [[head gardener]]
 - 🌮
 - [[websites]] i'm proud of
 	- https://daniel.ga/llegos

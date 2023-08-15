@@ -1,7 +1,7 @@
 tags:: #seed
 
 - prev: [[entertainment]]
-- there are many types of games to play! here is a non-exhaustive list of games the [[gardener]] likes.
+- there are many types of games to play! here is a non-exhaustive list of games the [[head gardener]] likes.
 	- [[video [[games]]]]
 	- [[tabletop [[games]]]]
 	- [[card [[games]]]]

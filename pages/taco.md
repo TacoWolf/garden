@@ -1,4 +1,4 @@
-tags:: #meta #taco
+tags:: #gardeners #meta
 
 - **prev:** [[head gardener]]
 - 🌮
