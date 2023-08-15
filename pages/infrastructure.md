@@ -6,6 +6,7 @@ tags:: #seed, #section
 	- #culture
 	- #science
 	- #technology
-	-
-	-
+	- #health
+	- #money
+	- #life
 - **next:** [[thoughts]]

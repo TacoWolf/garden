@@ -1,4 +1,4 @@
-tags:: #sapling #infrastructure #github #logseq #sync
+tags:: #sapling #infrastructure #github #logseq #sync #technology
 
 - > taco: logseq was the answer i wanted the whole time
   taco: it was sitting in front of me
