@@ -7,8 +7,5 @@ tags:: #technology #[[programming language]] #infrastructure
       println!("Hello, World!");
   }
   ```
-- features:
-	- really fast
-	- memory safe
-	-
+- get started [here](https://www.rust-lang.org/learn/get-started).
 - **next:** [[programming language]]

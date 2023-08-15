@@ -7,6 +7,4 @@ tags:: #technology #[[programming language]] #infrastructure
       println!("Hello, World!");
   }
   ```
-- features:
-	-
 - **next:** [[programming language]]
