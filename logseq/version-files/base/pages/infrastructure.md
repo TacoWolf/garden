@@ -7,5 +7,4 @@ tags:: #seed, #section
 		- [[personal knowledge management]]
 			- [[logseq]]
 			- [[how to upload a logseq graph that's synchronized to github pages and also publish it to the internet]]
-	- ## [[entertainment]]
 - **next:** [[thoughts]]
