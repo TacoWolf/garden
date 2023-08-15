@@ -1,3 +1,5 @@
 - > **k**eep **i**t **s**imple, **s**tupid!
-- we abbreviate this principle to [[keep it simple]] because we try to [[be nice]].
+	- said to have been coined in the [[united states]] navy in 1960.
+	-
+	- we abbreviate this principle to [[keep it simple]] because we try to [[be nice]].
 -
