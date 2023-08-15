@@ -1,11 +1,11 @@
-- topics that we wish to cover
-- #culture
-- #games
-- #health
-- #life
-- #money
-- #movies
-- #music
-- #science
-- #shows
-- #technology
+- categories that we wish to organize our [[seed]]s under.
+	- #culture
+	- #games
+	- #health
+	- #life
+	- #money
+	- #movies
+	- #music
+	- #science
+	- #shows
+	- #technology
