@@ -7,4 +7,5 @@ tags:: #technology #[[programming language]] #infrastructure
       println!("Hello, World!");
   }
   ```
+- get started [here](https://www.rust-lang.org/learn/get-started).
 - **next:** [[programming language]]
