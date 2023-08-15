@@ -1,3 +1,6 @@
+tags:: #meta #taco
+
+- **prev:** [[gardener]]
 - 🌮
 - [[websites]] i'm proud of
 	- https://daniel.ga/llegos
@@ -9,3 +12,4 @@
 	- furryposting: https://meow.social/@chirpbirb
 - cool #gpg stuff:
 	- https://keyoxide.org/daniel@tacowolf.net
+- **next:** [[entertainment]]
