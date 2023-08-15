@@ -1,6 +1,6 @@
 tags:: #seed, #section
 
-- prev: [[entrance]]
+- **prev:** [[entrance]]
 - things that we like that you should check out.
 	- [[music]]
 	- [[movies]]
@@ -8,5 +8,4 @@ tags:: #seed, #section
 	- [[books]]
 	- [[games]]
 	- [[websites]]
-- next: [[infrastructure]]
--
+- **next:** [[infrastructure]]
