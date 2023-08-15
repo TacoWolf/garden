@@ -11,7 +11,9 @@ tags:: #seed #section
 				- [[how to upload a logseq graph that's synchronized to github pages and also publish it to the internet]]
 			- #health
 			- #money
+			- #games
+			-
 			- #life
 				- [[gardening habits]]
-	- if an article moves from here, don't worry! it has most likely graduated to a
+	- if an article moves from here, don't worry! it has most likely graduated to become a piece of #infrastructure.
 - **next:** [[entertainment]]
