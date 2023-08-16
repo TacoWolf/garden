@@ -1,5 +1,4 @@
 tags:: #gardeners #meta
-
 - **prev:** [[head gardener]]
 - 🌮
 - [[websites]] i'm proud of

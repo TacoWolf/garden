@@ -1,5 +1,4 @@
 tags:: #rpg #[[tabletop [[games]]]]
-
 - prev: [[tabletop [[games]]]]
 - https://riverhousegames.itch.io/hot-gay-bro-dragons
 - > bro, he's your whole world.

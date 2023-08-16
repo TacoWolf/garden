@@ -1,5 +1,4 @@
 tags:: #garden #meta #writing #[[style guide]]
-
 - **prev:** [[garden]]
 - the [[head gardener]] likes doing the following with their notes:
 	- follow the [[[[seed]] planting guide]]

@@ -1,5 +1,4 @@
 tags:: #flower #music #weezer
-
 - prev: [[ok human]]
 - {{video https://youtu.be/_RCvJoti-QY}}
 - {{video https://youtu.be/5BfYBU6l1oo}}

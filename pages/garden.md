@@ -1,5 +1,4 @@
 tags:: #seed #meta
-
 - **prev:** [[entrance]]
 - the garden here at the [birdcat cafe](https://birdcat.cafe) contains multiple types of flora and fauna.
 - the [[head gardener]] around here has a system for the [[digital garden]] they maintain. here's a rundown:

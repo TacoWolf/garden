@@ -1,5 +1,4 @@
 tags:: #linux #gnu #unix-like #unix #[[operating system]]
-
 - prev: [[linux]]
 - an alternative / "more accurate" name for [[linux]]
 - *technically*, the [[linux]] [[open source]] [[operating system]] is actually built upon the [[gnu]] core utilities.
