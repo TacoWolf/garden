@@ -6,8 +6,7 @@ tags:: #seed, #section
 	- #music
 	- #movies
 	- #shows
-	- #books
-	- #games
 	- #literature
+	- #games
 	- #websites
 - **next:** [[infrastructure]]
