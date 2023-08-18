@@ -8,5 +8,6 @@ tags:: #seed, #section
 	- #shows
 	- #books
 	- #games
+	- #literature
 	- #websites
 - **next:** [[infrastructure]]

@@ -1,4 +1,5 @@
 tags:: #seed, #section
+
 - **prev:** [[entrance]]
 - things that we like that you should check out.
 - ## categories
@@ -7,5 +8,6 @@ tags:: #seed, #section
 	- #shows
 	- #books
 	- #games
+	- #literature
 	- #websites
 - **next:** [[infrastructure]]
