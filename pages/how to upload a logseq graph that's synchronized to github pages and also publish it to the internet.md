@@ -6,7 +6,7 @@ tags:: #sapling #infrastructure #github #logseq #sync #technology
   taco: i'm just dumb.
   taco: but here we are
 	- me, in the [birdcat cafe matrix server](https://chat.birdcat.cafe)
-- tl;dr: the whole thing is hosted on [[github]] pages! you can check out the source code [here](https://github.com/TacoWolf/garden). what i do is sync my [logseq](https://logseq.com/) notes using their beta sync client across devices and then use their auto-commit function to save my files every 60 seconds. after i'm satisfied with my writing, i push those commits upstream to github. logseq then compiles itself as an [spa](https://github.com/logseq/publish-spa). check out [this workflow](https://github.com/TacoWolf/garden/blob/main/.github/workflows/publish.yml) to see how that publish action works. :3
+- tl;dr: the whole thing is hosted on [[github]] pages! you can check out the source code [here](https://github.com/TacoWolf/garden). what we do is sync our [[logseq]] notes using their beta sync client across all of our devices and then use their auto-commit function to save our files every 60 seconds. after we're satisfied with our writing, we push those commits upstream to github. logseq then compiles itself as a [single page application](https://github.com/logseq/publish-spa). check out [this workflow](https://github.com/TacoWolf/garden/blob/main/.github/workflows/publish.yml) to see how that publish action works. :3
 - # set up [[logseq]]
 	- or whatever your [[personal knowledge management]] tool of choice is. this specific guide requires the use of logseq, though.
 - # create a new [[github]] [[repository]]
