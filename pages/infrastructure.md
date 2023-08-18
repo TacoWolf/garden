@@ -4,9 +4,14 @@ tags:: #seed, #section
 - this is a collection of (hopefully) helpful texts to guide you to use [[the grid]] *en el mundo de la informática* {the world of technology}.
 - # topics
 	- #culture
-	- #science
-	- #technology
+	- #games
 	- #health
-	- #money
 	- #life
+		- [[personal knowledge management]]
+	- #money
+	- #movies
+	- #music
+	- #science
+	- #shows
+	- #technology
 - **next:** [[thoughts]]
