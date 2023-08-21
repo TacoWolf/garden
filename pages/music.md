@@ -1,4 +1,6 @@
-- prev: [[entertainment]]
+tags:: #seed
+
+- **prev:** [[entertainment]]
 - these are all of the sick jams i like.
 - # artists
 	- [[weezer]]
@@ -8,5 +10,4 @@
 - # songs
 	- [[numbers]]
 	- [[the grid]]
-- next: [[movies]]
-- tags:: #seed
+- **next:** [[movies]]
