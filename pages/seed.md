@@ -2,6 +2,5 @@ tags:: #seed #garden #meta
 
 - **prev:** [[garden]]
 - seeds are pages that are just being planted. watch as they grow! seeds can come from anywhere. consider these drafts, works in progress. they may grow right in front of your eyes!
-- anatomy of a seed:
-	-
+- anatomy of a seed
 - **next:** [[sapling]]

@@ -5,6 +5,7 @@ tags:: #seed #zettlekasten #[[digital garden]]
 - # seed format
 	- id:: 64e3fb8f-7148-427c-837d-4a38f70293a2
 	  ```
+	  tags: 
 	  prev:
 	  [content]
 	  next:
