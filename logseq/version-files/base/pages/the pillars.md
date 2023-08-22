@@ -1,6 +1,6 @@
 -
-- [[do not lie]].
 - [[do not steal]].
+- [[do not lie]].
 - [[be productive]].
 -
 - [[make it real]].
