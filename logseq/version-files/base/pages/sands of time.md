@@ -1,4 +1,4 @@
-tags:: #flower
+tags:: #flower #music #quote #[[video [[games]]]]
 
 - **prev:** [[the pillars]]
 - > most people think time is like a river that flows swift and sure in one direction... but i have seen the face of time, and i can tell you they are wrong.
