@@ -9,3 +9,4 @@
 	- [[everything is temporary]].
 	- [[express yourself]].
 	- [[make happy]].
+- the pillars may shift and change, but one thing remains true:

@@ -2,4 +2,4 @@ tags:: #life #pillar #inca
 
 - **prev:** [[inca]]
 -
-- **next:**
+- **next:** [[the pillars]]
