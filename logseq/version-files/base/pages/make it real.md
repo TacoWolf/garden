@@ -1,7 +1,6 @@
 tags:: #life #pillar
 
-- **prev:**
+- **prev:** [[life]]
 - [[pillar]] number one of [[the pillars]].
-	-
-- **next:**
--
+- you have the power of creation. make your visions and desires real.
+- **next:** [[the pillars]]
