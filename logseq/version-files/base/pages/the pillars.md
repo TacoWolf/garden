@@ -10,6 +10,7 @@ tags:: #life
 	- [[make it real]].
 	- [[love one another]].
 	- [[tell your story]].
+	- [[keep it simple]].
 	- [[everything is temporary]].
 	- [[express yourself]].
 	- [[make happy]].
