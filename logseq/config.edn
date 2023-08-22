@@ -416,4 +416,5 @@
  :publishing/all-pages-public? true
  :graph/settings {:journal? false, :builtin-pages? true}
  :ui/show-brackets? false
- :editor/preferred-pasting-file? true}
+ :editor/preferred-pasting-file? true
+ :journal/page-title-format "yyyy-MM-dd EEEE"}
