@@ -1,5 +1,6 @@
 tags:: #zettlekasten #knowledge #seed #life
 
-- **prev:**
+- **prev:** [[zettlekasten]]
 -
-- **next:**
+- also known as [[seed]]s.
+- **next:** [[seed]]
