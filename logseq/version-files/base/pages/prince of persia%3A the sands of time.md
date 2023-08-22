@@ -5,4 +5,3 @@ tags:: #games #[[video [[games]]]] #seed
 	- more information [here](https://en.wikipedia.org/wiki/Prince_of_Persia:_The_Sands_of_Time).
 	- one of the [[head gardener]]'s first video games they ever played. :3
 - **next:** [[sands of time]]
--
