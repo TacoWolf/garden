@@ -1,8 +1,5 @@
-tags:: #[[personal knowledge management]] #zettlekasten #
+tags:: #[[personal knowledge management]] #zettlekasten #knowledge #meta
 
 - **prev:**
 -
-- ### resources
-	- [[tiago forte has a lot of really good resources on taking notes on his [youtube channel]({{video https://www.youtube.com/channel/UCmvYCRYPDlzSHVNCI_ViJDQ}})
-		-
 - **next:**
