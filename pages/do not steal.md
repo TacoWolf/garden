@@ -1,5 +1,5 @@
 tags:: #life #pillar
 
-- **prev:**
+- **prev:** [[inca]]
 -
-- **next:**
+- **next:** [[the pillars]]

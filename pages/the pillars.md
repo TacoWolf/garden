@@ -1,7 +1,7 @@
--
-- [[do not steal]].
-- [[do not lie]].
-- [[be productive]].
+- from the [[inca]] moral code:
+	- [[do not steal]].
+	- [[do not lie]].
+	- [[be productive]].
 -
 - [[make it real]].
 - [[love one another]].
