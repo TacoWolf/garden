@@ -2,12 +2,11 @@ tags:: #meta #seed
 
 - **prev:** [[personal knowledge management]]
 - zettlekasten is a german word meaning "slip box".
+- zettlekasten is a
 - the original zettlekastens were card files consisting of small pieces of information stored on note cards kept in card filing cabinets.
 	- these small pieces of information are called [[zettles]].
 	- [[zettles]] are usually linked together to create a mental network of information.
 	- card files were eventually used as inspiration for [[hyperlink]]-based [[personal knowledge management]] software.
--
-	-
 -
 - ### further reading
 	-

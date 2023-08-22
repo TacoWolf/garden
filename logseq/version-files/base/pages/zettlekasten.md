@@ -6,7 +6,7 @@ tags:: #meta #seed
 	- these small pieces of information are called [[zettles]].
 	- [[zettles]] are usually linked together to create a mental network of information.
 	- card files were eventually used as inspiration for [[hyperlink]]-based [[personal knowledge management]] software.
-	-
+- conrad gessner (1516-1565)
 	-
 -
 - ### further reading
