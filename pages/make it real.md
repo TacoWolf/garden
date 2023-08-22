@@ -1,5 +1,7 @@
 tags:: #life #pillar
 
 - **prev:**
-- one of the
+- [[pillar]] number one of [[the pillars]].
+	-
 - **next:**
+-
