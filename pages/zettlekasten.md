@@ -7,9 +7,8 @@ tags:: #meta #seed
 	- these small pieces of information are called [[zettles]].
 	- [[zettles]] are usually linked together by ids/references to create a mental network of information.
 	- card files were eventually used as inspiration for [[hyperlink]]-based [[personal knowledge management]] software.
-	- after completing a zettle, the idea is to put it away in the slip boxes for safekeeping.
+	- after completing a note, the idea is to put it away in the slip boxes for safekeeping.
 - ### further reading
-	-
 	- this video by artem kirsanov shows a really neat way of using [[obsidian]] that influenced a lot of the way that i take notes.
 		- {{video https://www.youtube.com/watch?v=E6ySG7xYgjY}}
 	- this video by aidan helfant showcases a brief history of [[zettlekasten]] and the benefits of having a second brain through taking [[zettles]] down quickly!
