@@ -1,4 +1,7 @@
-- tenets we try to adhere by in
+tags:: #life
+
+- **prev:** [[life]]
+- tenets the [[head gardener]] tries to live by and keeps the garden maintained by.
 - from the [[inca]] moral code:
 	- [[do not steal]].
 	- [[do not lie]].
@@ -12,3 +15,5 @@
 	- [[make happy]].
 - the pillars may shift and change to withstand the [[sands of time]], but one thing remains true:
 	- we love you. 💚
+- **next:** [[inca]]
+-
