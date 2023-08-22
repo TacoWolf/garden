@@ -6,6 +6,7 @@ tags:: #music #dubstep #edm #musician
 	- [[scary monsters and nice sprites]]
 		-
 	- [[my name is skrillex]]
-		-
+	- [[bangarang]]
+	-
 	-
 - **next:** [[take you to the mountain]]
