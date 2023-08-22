@@ -1,3 +1,4 @@
+- tenets we try to adhere by in
 - from the [[inca]] moral code:
 	- [[do not steal]].
 	- [[do not lie]].
