@@ -1,5 +1,5 @@
-tags:: #[[personal knowledge management]] #zettlekasten #knowledge #meta
+tags:: #[[personal knowledge management]] #zettlekasten #knowledge #meta #life
 
-- **prev:**
+- **prev:** [[personal knowledge management]]
 -
 - **next:**
