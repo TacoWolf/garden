@@ -6,18 +6,37 @@ tags:: #seed #section
 - things we're currently [[thinking in public]] about:
 - # [[topics]]
 	- #culture
+		- [[mastodon]]
 	- #games
+		- [[[[baldur's gate]] 3]]
+		- [[bomb rush cyberfunk]]
 	- #health
 	- #life
 	- #literature
+		- [[w3c documentation]]
 	- #money
+		- [[budgeting]]
 	- #movies
+		- [[everything everywhere all at once]]
+		- [[31 minutos: la pelicula]]
 	- #music
+		- [[the dear hunter]]
+		- [[madeon]]
+		- [[porter robinson]]
+		- [[coyote theory]]
+		- [[hideki naganuma]]
 	- #science
+		- [[climate change]]
 	- #shows
+		- [[31 minutos]]
+		- [[severance]]
 	- #technology
+		- [[html]] & [[semantic html]]
+			- and how to hook it into [[hugo]]
+			- styling [[semantic html]] with [[css]]
+			- and how to not use as much [[javascript]]
+		- [[jq]] got updated recently!
 	- #websites
+		- [[neocities]]
 - if an article moves from here, don't worry! it has most likely graduated to become a piece of #infrastructure.
 - **next:** [[entertainment]]
--
--

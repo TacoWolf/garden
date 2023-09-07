@@ -1,5 +1,4 @@
 tags:: #principle #seed
-
 - **prev:** [[minimalism]]
 - > **k**eep **i**t **s**imple, **s**tupid!
 	- said to have been coined in the united states navy in 1960.

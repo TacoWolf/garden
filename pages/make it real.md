@@ -1,5 +1,4 @@
 tags:: #life #pillar
-
 - **prev:** [[life]]
 - [[pillar]] number one of [[the pillars]].
 - you have the power of creation.

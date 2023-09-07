@@ -1,5 +1,4 @@
 tags:: #life
-
 - **prev:** [[life]]
 - tenets the [[head gardener]] tries to live by and keeps the garden maintained by.
 - from the [[inca]] moral code:
