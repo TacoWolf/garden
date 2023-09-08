@@ -1,4 +1,4 @@
-tags:: #seed #section
+tags:: #section
 
 - **prev:** [[entrance]]
 - these are ideas that we have that we want to share! this is part of [[thinking in public]].
@@ -35,6 +35,7 @@ tags:: #seed #section
 			- and how to hook it into [[hugo]]
 			- styling [[semantic html]] with [[css]]
 			- and how to not use as much [[javascript]]
+			- [[back to basics: semantic html and css]]
 		- [[jq]] got updated recently!
 	- #websites
 		- [[neocities]]

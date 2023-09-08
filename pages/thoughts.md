@@ -1,4 +1,4 @@
-tags:: #seed #section
+tags:: #section
 
 - **prev:** [[entrance]]
 - these are ideas that we have that we want to share! this is part of [[thinking in public]].
