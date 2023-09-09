@@ -12,6 +12,8 @@ tags:: #section
 		- [[[[baldur's gate]] 3]]
 		- [[bomb rush cyberfunk]]
 	- #health
+		- [[vegetarianism]]
+		- [[self-care]]
 	- #life
 	- #literature
 		- [[w3c documentation]]
