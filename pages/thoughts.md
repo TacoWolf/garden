@@ -7,6 +7,7 @@ tags:: #section
 - # [[topics]]
 	- #culture
 		- [[mastodon]]
+		- [[gentle encouragement]] is better than forced standards
 	- #games
 		- [[[[baldur's gate]] 3]]
 		- [[bomb rush cyberfunk]]
