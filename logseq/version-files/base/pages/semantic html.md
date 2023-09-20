@@ -6,3 +6,4 @@ tags:: #technology #html #websites
 	- https://www.freecodecamp.org/news/semantic-html5-elements/
 	- https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 - **next:** [[css]]
+-
