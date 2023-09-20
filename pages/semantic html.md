@@ -5,7 +5,8 @@ tags:: #technology #html #websites
 - ## resources
 	- https://www.freecodecamp.org/news/semantic-html5-elements/
 	- https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-	- https://www.w3.org/WAI/ARIA/apg/patterns/landmarks/
+	- https://www.w3.org/WAI/ARIA/apg/patterns/
+		- https://www.w3.org/WAI/ARIA/apg/patterns/landmarks/
 	-
 - **next:** [[css]]
 -
