@@ -1,0 +1,3 @@
+-
+- ### resources
+	- {{video https://youtu.be/wIuVvCuiJhU}}
