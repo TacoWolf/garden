@@ -1,4 +1,4 @@
 - tags::
 - **prev:** [[mastodon]]
 -
-- **next:** pp
+- **next:** [[fediverse]]
