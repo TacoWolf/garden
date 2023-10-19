@@ -11,5 +11,6 @@ tags:: #[[personal knowledge management]] #zettlekasten #knowledge #meta #life
 			- Organize - Save for actionability
 			- Distill - Find the essence
 			- Express - Show your work
+		-
 	- maggie appleton has some notes on tiago's work as well, you can read that [here](https://maggieappleton.com/basb).
 - **next:** [[zettlekasten]]
