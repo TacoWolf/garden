@@ -42,5 +42,5 @@ tags:: #section
 		- [[[[mastodon]] clients]]
 	- #websites
 		- [[neocities]]
-- if an article moves from here, don't worry! sometimes, seeds don't stick. sometimes most likely graduated to become a piece of #infrastructure.
+- if an article moves from here, don't worry! sometimes, seeds don't stick. other times, it has most likely graduated to become a piece of #infrastructure.
 - **next:** [[entertainment]]
