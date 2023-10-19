@@ -39,9 +39,8 @@ tags:: #section
 			- styling [[semantic html]] with [[css]]
 			- and how to not use as much [[javascript]]
 			- [[back to basics: semantic html and css]]
-		- [[jq]] got updated recently!
 		- [[[[mastodon]] clients]]
 	- #websites
 		- [[neocities]]
-- if an article moves from here, don't worry! it has most likely graduated to become a piece of #infrastructure.
+- if an article moves from here, don't worry! sometimes, seeds don't stick. sometimes most likely graduated to become a piece of #infrastructure.
 - **next:** [[entertainment]]
