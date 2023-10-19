@@ -11,6 +11,7 @@ tags:: #[[personal knowledge management]] #zettlekasten #knowledge #meta #life
 			- Organize - Save for actionability
 			- Distill - Find the essence
 			- Express - Show your work
-		-
+		- > Another framework from Tiago is the **PARA Framework**, which stands for Projects, Areas, Resources, and Archive. He explains it in detail in his book “**The PARA Method”**; but the key takeaway is **intentionality**.
 	- maggie appleton has some notes on tiago's work as well, you can read that [here](https://maggieappleton.com/basb).
+		-
 - **next:** [[zettlekasten]]
