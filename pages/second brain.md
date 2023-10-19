@@ -12,7 +12,7 @@ tags:: #[[personal knowledge management]] #zettlekasten #knowledge #meta #life
 			- **Distill** - Find the essence
 			- **Express** - Show your work
 		- > Another framework from Tiago is the **PARA Framework**, which stands for Projects, Areas, Resources, and Archive. He explains it in detail in his book “**The PARA Method”**; but the key takeaway is **intentionality**.
-	- maggie appleton has some notes on tiago's work as well, you can read that [here](https://maggieappleton.com/basb). but i wanted to highlight something she updated
+	- maggie appleton has some notes on tiago's work as well, you can read that [here](https://maggieappleton.com/basb). but i wanted to highlight something she added about tiago's more recent work:
 		- > I also find the metaphor of a “second brain” troubling in that it doesn't speak to the significance of [embodied cognition](https://en.wikipedia.org/wiki/Embodied_cognition) and [tacit knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge) in how human cognition works. Filling up a “digital brain” as if it were a filing cabinet is highly unlikely to lead to meaningful knowledge
 		  and wisdom.
 		- > Some of the content below is good, sensible advice for managing your digital information, but it is not groundbreaking or life changing. It also isn't based in much scientific evidence for what 
