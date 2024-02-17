@@ -1,5 +1,4 @@
 tags:: #section
-
 - **prev:** [[entrance]]
 - these are ideas that we have that we want to share! this is part of [[thinking in public]].
 - we usually add information to my public garden to process into a public page that we then publish to github pages and serve here on `garden.birdcat.cafe`. you can see how to do this using [[logseq]] here: [[how to upload a logseq graph that's synchronized to github pages and also publish it to the internet]]
@@ -39,9 +38,8 @@ tags:: #section
 			- styling [[semantic html]] with [[css]]
 			- and how to not use as much [[javascript]]
 			- [[back to basics: semantic html and css]]
-		- [[jq]] got updated recently!
 		- [[[[mastodon]] clients]]
 	- #websites
 		- [[neocities]]
-- if an article moves from here, don't worry! it has most likely graduated to become a piece of #infrastructure.
+- if an article moves from here, don't worry! sometimes, seeds don't stick. other times, it has most likely graduated to become a piece of #infrastructure.
 - **next:** [[entertainment]]
