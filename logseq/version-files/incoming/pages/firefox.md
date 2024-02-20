@@ -3,8 +3,6 @@ tags:: #[[web browser]] #[[open source]]
 - **prev:** [[web browser]]
 - a web browser by [[mozilla]].
 - ## extensions i use
-	- **betterfox**: https://github.com/yokoffing/Betterfox
-		- not technically an extension but a great set of defaults for firefox
 	- **bitwarden**: https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/
 		- why? i don't remember any of my passwords and neither should you
 	- **libredirect**: https://addons.mozilla.org/en-US/firefox/addon/libredirect/
