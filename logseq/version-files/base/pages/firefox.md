@@ -1,4 +1,4 @@
-tags:: #[[web browser]] #[[open source]]
+tags:: #[[web browser]] #[[open source]] #technology
 
 - **prev:** [[web browser]]
 - a web browser by [[mozilla]].
