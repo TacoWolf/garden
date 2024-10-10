@@ -1,5 +1,4 @@
 tags:: #technology #[[programming language]] #seed
-
 - **prev:** [[programming]]
 - a cross-[[programming paradigm]] general-purpose [[programming language]].
 - ```rust

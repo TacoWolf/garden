@@ -1,5 +1,4 @@
 tags:: #[[open source]] #[[personal knowledge management]]
-
 - **prev:** [[personal knowledge management]]
 - open source knowledge base software.
 	- home: https://logseq.com

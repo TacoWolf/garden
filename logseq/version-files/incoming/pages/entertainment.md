@@ -1,8 +1,11 @@
-public:: true
-- things that i like that you should check out.
-	- [[music]]
-	- [[movies]]
-	- [[shows]]
-	- [[books]]
-	- [[games]]
-	- [[websites]]
+tags:: #seed, #section
+- **prev:** [[entrance]]
+- things that we like that you should check out.
+- ## categories
+	- #music
+	- #movies
+	- #shows
+	- #literature
+	- #games
+	- #websites
+- **next:** [[infrastructure]]

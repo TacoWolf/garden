@@ -1,5 +1,4 @@
 tags:: #technology #[[open source]]
-
 - **prev:** [[software]]
 - a term coined by [Christine Peterson](https://en.wikipedia.org/wiki/Christine_Peterson) that relates to a produce which is licensed to permit modifications and redistribution of its [[source code]].
 	- formally, there's a definition by the [open source initiative](https://opensource.org/osd):

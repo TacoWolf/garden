@@ -1,2 +1,4 @@
-public:: true
+tags:: #technology
+- **prev:** [[internet]]
 -
+- **next:** [[html]]

@@ -1,5 +1,4 @@
 tags:: #sapling #github #logseq #sync #technology
-
 - > taco: logseq was the answer i wanted the whole time
   taco: it was sitting in front of me
   taco: i pay for it

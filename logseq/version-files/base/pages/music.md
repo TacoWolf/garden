@@ -1,5 +1,4 @@
 tags:: #seed
-
 - **prev:** [[entertainment]]
 - these are all of the sick jams i like.
 - # artists

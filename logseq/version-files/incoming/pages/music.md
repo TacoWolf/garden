@@ -1,8 +1,12 @@
-public:: true
 tags:: #seed
-- prev: [[entertainment]]
+- **prev:** [[entertainment]]
 - these are all of the sick jams i like.
 - # artists
+	- [[weezer]]
+	- [[daft punk]]
 - # albums
+	- [[ok human]]
 - # songs
-- # playlists
+	- [[numbers]]
+	- [[the grid]]
+- **next:** [[movies]]

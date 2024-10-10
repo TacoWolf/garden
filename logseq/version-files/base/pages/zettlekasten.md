@@ -1,5 +1,4 @@
 tags:: #meta #seed
-
 - **prev:** [[personal knowledge management]]
 - zettlekasten is a german word meaning "slip box".
 - zettlekasten is a note taking system. it was popularized by [sonkhe ahrens' "how to take smart notes"](https://www.soenkeahrens.de/en/takesmartnotes) by documenting the way that [niklas luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann) was able to use the original zettlekasten method to write so prolificly.

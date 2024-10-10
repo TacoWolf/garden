@@ -1,7 +1,15 @@
-public:: true
-tags:: #seed
+tags:: #seed, #section
 - prev: [[entrance]]
-- [[The Grid]].
-- this is a collection of (hopefully) helpful texts to guide you *en el mundo de la informática* {the world of technology}.
-- # [[personal knowledge management]]
-	- [[how to upload a logseq graph that's synchronized to github pages and also publish it to the internet]]
+- this is a collection of (hopefully) helpful texts to guide you to use [[the grid]] *en el mundo de la informática* {the world of technology}.
+- # topics
+	- #culture
+	- #games
+	- #health
+	- #life
+	- #money
+	- #movies
+	- #music
+	- #science
+	- #shows
+	- #technology
+- **next:** [[thoughts]]
