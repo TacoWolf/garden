@@ -2,6 +2,7 @@ tags:: #[[web browser]] #[[open source]] #technology
 
 - **prev:** [[web browser]]
 - a web browser by [[mozilla]].
+- i actually use a fork of firefox called [zen browser](https://zen-browser.app/). it's pretty cool and works just like firefox in the backend!
 - ## extensions i use
 	- **betterfox**: https://github.com/yokoffing/Betterfox
 		- not technically an extension but a great set of defaults for firefox
@@ -18,8 +19,9 @@ tags:: #[[web browser]] #[[open source]] #technology
 		- why? makes youtube watchable
 	- **dearrow** ($ paid): https://dearrow.ajay.app/
 		- why? makes youtube titles readable
-	- **xbrowsersync**: https://addons.mozilla.org/en-US/firefox/addon/xbs/
-		- why? syncs bookmarks anonymously w/ encryption
+	- **floccus bookmark sync**: https://addons.mozilla.org/en-US/firefox/addon/floccus/
+		- why? syncs bookmarks to my nextcloud
+			- i previously had xbrowsersync but i lost all my bookmarks somehow and i feel like i can't recommend it :(
 	- **search by image**: https://addons.mozilla.org/en-US/firefox/addon/search_by_image/
 		- why? searches by image lmao it's in the title
 	- **indie wiki buddy**: https://addons.mozilla.org/en-US/firefox/addon/indie-wiki-buddy/
@@ -32,5 +34,4 @@ tags:: #[[web browser]] #[[open source]] #technology
 		- why? kde connect is awesome, that's why
 	- **firefox multi-account containers**: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/
 		- why? helps containerize the web. ignore the vpn shit
-	-
 - **next:** [[websites]]
