@@ -13,6 +13,7 @@ tags:: #[[web browser]] #[[open source]] #technology
 			- huge shout out to [proxitok](https://proxitok.pabloferreiro.es/) btw
 	- **ublock origin**: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
 		- why? blocks ads
+	- **localcdn**:
 	- **enhancer for youtube**: https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube
 		- why? makes watching youtube a whole lot better
 	- **sponsorblock for youtube**: https://sponsor.ajay.app/
