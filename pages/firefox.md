@@ -4,36 +4,39 @@ tags:: #[[web browser]] #[[open source]] #technology
 - a web browser by [[mozilla]].
 - i actually use a fork of firefox called [zen browser](https://zen-browser.app/). it's pretty cool and works just like firefox in the backend!
 - ## extensions i use
-	- **betterfox**: https://github.com/yokoffing/Betterfox
+	- **betterfox**: https://github.com/yokoffing/Betterfox:
 		- not technically an extension but a great set of defaults for firefox
 	- **bitwarden**: https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/
 		- why? i don't remember any of my passwords and neither should you
-	- **libredirect**: https://addons.mozilla.org/en-US/firefox/addon/libredirect/
-		- why? redirects to privacy respecting frontends
-			- huge shout out to [proxitok](https://proxitok.pabloferreiro.es/) btw
-	- **ublock origin**: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-		- why? blocks ads
-	- **localcdn**: https://www.localcdn.org/
-		- why? replaces cdns for popular frameworks so you're more secure and things load faster
-	- **enhancer for youtube**: https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube
-		- why? makes watching youtube a whole lot better
-	- **sponsorblock for youtube**: https://sponsor.ajay.app/
-		- why? makes youtube watchable
+	- **bypass paywalls firefox clean**: https://github.com/bpc-clone/bypass-paywalls-firefox-clean
+		- why? banned from the mozilla store by dmca, so you know it's good.
 	- **dearrow** ($ paid): https://dearrow.ajay.app/
 		- why? makes youtube titles readable
+	- **enhancer for youtube**: https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube
+		- why? makes watching youtube a whole lot better
+	- **firefox multi-account containers**: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/
+		- why? helps containerize the web. ignore the vpn shit
 	- **floccus bookmark sync**: https://addons.mozilla.org/en-US/firefox/addon/floccus/
 		- why? syncs bookmarks to my nextcloud
 			- i previously had xbrowsersync but i lost all my bookmarks somehow and i feel like i can't recommend it :(
-	- **search by image**: https://addons.mozilla.org/en-US/firefox/addon/search_by_image/
-		- why? searches by image lmao it's in the title
-	- **indie wiki buddy**: https://addons.mozilla.org/en-US/firefox/addon/indie-wiki-buddy/
-		- why? redirects to cooler wikis that are actually maintained
-	- **bypass paywalls firefox clean**: https://github.com/bpc-clone/bypass-paywalls-firefox-clean
-		- why? banned from the mozilla store by dmca, so you know it's good.
 	- **humble bundle downloader**: https://addons.mozilla.org/en-US/firefox/addon/humble-bundle-downloader/
 		- why? i need to download those mf books
+	- **indie wiki buddy**: https://addons.mozilla.org/en-US/firefox/addon/indie-wiki-buddy/
+		- why? redirects to cooler wikis that are actually maintained
 	- **kde connect**: https://addons.mozilla.org/en-US/firefox/addon/kde_connect/
 		- why? kde connect is awesome, that's why
-	- **firefox multi-account containers**: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/
-		- why? helps containerize the web. ignore the vpn shit
+	- **libredirect**: https://addons.mozilla.org/en-US/firefox/addon/libredirect/
+		- why? redirects to privacy respecting frontends
+			- huge shout out to [proxitok](https://proxitok.pabloferreiro.es/) btw
+	- **localcdn**: https://www.localcdn.org/
+		- why? replaces cdns for popular frameworks so you're more secure and things load faster
+	- **search by image**: https://addons.mozilla.org/en-US/firefox/addon/search_by_image/
+		- why? searches by image lmao it's in the title
+	- **sponsorblock for youtube**: https://sponsor.ajay.app/
+		- why? makes youtube watchable
+	- **ublock origin**: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+		- why? blocks ads
+	- **violentmonkey**: https://violentmonkey.github.io/
+		- why? supports [userscripts](https://en.wikipedia.org/wiki/Userscript): https://greasyfork.org/en
+	-
 - **next:** [[websites]]
